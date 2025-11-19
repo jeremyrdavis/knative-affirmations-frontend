@@ -1,0 +1,4 @@
+window.APP_CONFIG = {
+  apiBaseUrl: '{apiBaseUrl}'
+};
+console.log('API Base URL is set to:', window.APP_CONFIG.apiBaseUrl);
