@@ -1,4 +1,4 @@
-package com.redhat.demos.knative;
+package com.redhat.demos.knative.api;
 
 import java.util.UUID;
 
